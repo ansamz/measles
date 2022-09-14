@@ -5,7 +5,7 @@
 ![alternative text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNsuRzFy4wEmAYiNss4kTImouWhSChUsbryb-J2MZ--q13KOO_Jzqj7H3n4AZVozQ4BU&usqp=CAU)
 
 
-#### -- Project Status: [In progress]
+#### -- Project Status: [Finished]
 Check out this link for the current implementation in Streamlit: https://share.streamlit.io/egronskaya/measles/src/measles_analyser.py
 
 ## Project Intro/Objective
